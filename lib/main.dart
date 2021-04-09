@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
-                  color: Colors.blue,
+                  color: Colors.pink,
                 ),
               ),
             ],
